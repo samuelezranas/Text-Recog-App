@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyCamera" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorSecondary">@color/orange</item>
+        <item name="textAppearanceButton">@color/black</item>
+
+    </style>
+
+    <style name="Theme.MyCamera" parent="Base.Theme.MyCamera" />
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TextRecog" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorSecondary">@color/teal</item>
+        <item name="textAppearanceButton">@color/white</item>
+
+    </style>
+
+    <style name="Theme.TextRecog" parent="Base.Theme.TextRecog" />
+</resources>
