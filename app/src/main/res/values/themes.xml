@@ -1,6 +1,6 @@
 <resources>
     <!-- Base application theme. -->
-    <style name="Base.Theme.MyCamera" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.TextRecog" parent="Theme.Material3.DayNight.NoActionBar">
 
         <item name="colorPrimary">@color/teal</item>
         <item name="colorSecondary">@color/orange</item>
@@ -8,5 +8,5 @@
 
     </style>
 
-    <style name="Theme.MyCamera" parent="Base.Theme.MyCamera" />
+    <style name="Theme.TextRecog" parent="Base.Theme.TextRecog" />
 </resources>
